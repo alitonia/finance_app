@@ -62,4 +62,4 @@ export const {
                refreshLoading,
              } = loadingSlice.actions;
 
-export default loadingSlice.reducer;
+export const loading_slice = loadingSlice.reducer;
